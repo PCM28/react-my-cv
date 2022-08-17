@@ -1,0 +1,18 @@
+h1{
+    color: aliceblue;
+}
+
+button{
+    display:flexbox;
+    justify-content: space-between;
+    align-items: center;
+    justify-items: center;
+    flex-direction: row;
+    font-size: 20px;
+    color: aliceblue;
+    background-color: rgba(240, 248, 255, 0.241);
+    border: 0;
+    border-radius: 6px;
+    padding: 5px 60px;
+    margin: 0 30px;
+}
